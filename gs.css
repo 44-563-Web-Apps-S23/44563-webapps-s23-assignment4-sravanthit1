@@ -1,0 +1,63 @@
+.speech {
+    font-size: 10; font-family: Arial, Helvetica, sans-serif; color: black;
+  }
+
+.direction{
+    background-color: beige;font-size: 18; font-family: "Times New Roman", Times, serif; color: black;
+  }
+
+.name {
+    font-size: 40; font-family: "Lucida Console", "Courier New", monospace; color: rgb(108, 2, 2);
+}
+
+.direction:hover{
+    background-color: aqua;
+ }
+
+.betty{
+font-size: 35;
+color: green;
+}
+
+.cotton{
+  font-size: 35;
+color: blue;
+}
+
+table, th, td {
+  border: 1px solid;; text-align: center;
+}
+
+table {
+  width: 50%;
+  margin: 20px 20px 20px 20px;
+}
+
+th, td {
+  padding: 15px;
+}
+
+tr:nth-child(even) {
+  background-color: gray;
+}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.betty:hover{
+  background-color: rgb(221, 255, 0);
+  color: transparent;
+  text-shadow: 2px 2px 4px #000000;
+  border-style: ridge;
+  
+}
+
+.cotton:hover{
+  background-color:powderblue;
+  color: transparent;
+  text-shadow: 2px 2px 4px #000000;
+  border-style: solid;
+  
+}
