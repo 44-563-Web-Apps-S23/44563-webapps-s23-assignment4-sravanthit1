@@ -70,13 +70,10 @@ th {
   
 }
 
-ul.navbar-horizontal li {
+.navbar-horizontal{
   float:left;
   color:black;
   background-color:aqua;
-}
-
-ul.navbar-horizontal a {
   display:block;
   padding:10px
 }
